@@ -1,0 +1,2 @@
+# Curly-fortnight-
+Django project 
